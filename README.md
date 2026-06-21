@@ -1,4 +1,4 @@
-# Variant_calling of illuminna reads 
+# End-to-end germline variant calling pipeline using FastQC, Fastp, BWA, Samtools, BCFtools and SnpEff.
 
 ****Variant calling** Variant calling is a bioinformatics process used to identify genetic variations, such as single nucleotide polymorphisms (SNPs) and insertions or deletions (indels), from sequencing data. It involves aligning raw DNA or RNA sequence reads to a reference genome, analyzing discrepancies between the reference and the sample, and determining the location, type, and frequency of these variations. This process is critical for studying genetic diversity, understanding disease mechanisms, and identifying potential therapeutic targets.
 
